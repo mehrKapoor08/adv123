@@ -1,0 +1,12 @@
+.heading {
+    width: 100%;
+}
+
+.copyrightFooter {
+    position: fixed;
+    bottom: 0%;
+    color: white;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+}
